@@ -2,18 +2,6 @@ body {
 	font-family:"Open sans";
 }
 
-@media screen and (max-width:991px) {
-	body {
-		background-color:blue;
-	}
-}
-
-@media screen and (max-width:767px) {
-	body {
-		background-color:yellow;
-	}
-}
-
 h1 {
 	text-align:center;
 }
