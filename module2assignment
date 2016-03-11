@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+
+    <title>Coursera 01</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  	<link href='https://fonts.googleapis.com/css?family=Open+Sans|Roboto' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </head>
+
+  <body>
+
+  	<heading>
+
+  		<h1>Our Menu</h1>
+
+  	</heading>
+
+  	<section>
+
+  		<div class = "col1 colorLightGreen">
+
+  			<p><span class = "menuChicken">Chicken</span><br>
+  				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut tincidunt ipsum. Etiam malesuada diam felis, dapibus congue nisl eleifend dapibus. Proin ac blandit justo. Curabitur erat augue, posuere sit amet dolor eget, iaculis ullamcorper tellus. Suspendisse ultrices convallis nunc, quis pellentesque odio ultrices id. Quisque nulla purus, faucibus in sagittis at, vestibulum vitae nunc. Quisque rhoncus lobortis tellus ac facilisis. Praesent sodales convallis ante, pellentesque luctus lacus finibus vel. Cras placerat enim felis. Sed quam mauris, tempor eget finibus et, elementum in nunc. Nunc felis odio, consequat ac condimentum ac, finibus sit amet augue. Morbi tempus nec velit eget gravida. Aliquam commodo convallis augue, in elementum eros placerat quis. 
+  			</p>
+
+  		</div>
+  		<div class = "col1 goRight colorLightBlue">
+
+  			<p><span class = "menuBeef">Beef</span>
+  				<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut tincidunt ipsum. Etiam malesuada diam felis, dapibus congue nisl eleifend dapibus. Proin ac blandit justo. Curabitur erat augue, posuere sit amet dolor eget, iaculis ullamcorper tellus. Suspendisse ultrices convallis nunc, quis pellentesque odio ultrices id. Quisque nulla purus, faucibus in sagittis at, vestibulum vitae nunc. Quisque rhoncus lobortis tellus ac facilisis. Praesent sodales convallis ante, pellentesque luctus lacus finibus vel. Cras placerat enim felis. Sed quam mauris, tempor eget finibus et, elementum in nunc. Nunc felis odio, consequat ac condimentum ac, finibus sit amet augue. Morbi tempus nec velit eget gravida. Aliquam commodo convallis augue, in elementum eros placerat quis. 
+  			</p>
+
+
+  		</div>
+  		<div class = "col1 clear">
+
+  			<p><span class = "menuSushi">Sushi</span><br>
+  				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut tincidunt ipsum. Etiam malesuada diam felis, dapibus congue nisl eleifend dapibus. Proin ac blandit justo. Curabitur erat augue, posuere sit amet dolor eget, iaculis ullamcorper tellus. Suspendisse ultrices convallis nunc, quis pellentesque odio ultrices id. Quisque nulla purus, faucibus in sagittis at, vestibulum vitae nunc. Quisque rhoncus lobortis tellus ac facilisis. Praesent sodales convallis ante, pellentesque luctus lacus finibus vel. Cras placerat enim felis. Sed quam mauris, tempor eget finibus et, elementum in nunc. Nunc felis odio, consequat ac condimentum ac, finibus sit amet augue. Morbi tempus nec velit eget gravida. Aliquam commodo convallis augue, in elementum eros placerat quis. 
+  			</p>
+
+  		</div>
+
+
+  	</section>
+
+
+
+
+
+
+
+  </body>
+  </html>
