@@ -1,0 +1,113 @@
+body {
+	font-family:"Open sans";
+}
+
+@media screen and (max-width:991px) {
+	body {
+		background-color:blue;
+	}
+}
+
+@media screen and (max-width:767px) {
+	body {
+		background-color:yellow;
+	}
+}
+
+h1 {
+	text-align:center;
+}
+
+section {
+	width:85%;
+	margin:auto;
+}
+
+
+.col1 {
+	font-size:.75em;
+	float:left;
+	width:30%;
+	padding:1%;
+	border:1px solid black;
+	box-sizing:border-box;
+	background-color:#bfbfbf;
+	margin:1%;
+	position:relative;
+}
+
+.colorLightGreen {
+	background-color:lightgreen;
+}
+
+.colorLightBlue {
+	background-color:lightblue;
+}
+
+.menuChicken {
+	font-weight:600;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	background-color:#ff9999;
+	padding:1% 10%;
+	position:absolute;
+	right:0;
+	top:0;
+}
+
+.menuBeef {
+	font-weight:600;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	background-color:#660000;
+	color:#fff;
+	padding:1% 10%;
+	position:absolute;
+	right:0;
+	top:0;
+}
+
+.menuSushi {
+	font-weight:600;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	background-color:#ffff66;
+	padding:1% 10%;
+	position:absolute;
+	right:0;
+	top:0;
+	margin-bottom:50px;
+}
+
+@media screen and (max-width:991px) {
+
+	.col1 {
+		width:40%;
+		margin:0%;
+		margin-bottom:5%;
+	}
+
+	.goRight {
+		float:right;
+		margin-right:0;
+
+
+	}
+
+	.clear {
+	clear:both;
+	width:100%;
+}
+
+}
+
+@media screen and (max-width:767px) {
+
+	.col1 {
+		width:100%;
+	}
+
+
+
+	}
+
